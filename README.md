@@ -12,6 +12,6 @@
 
 内容の警告ラベルが付けられている画像に対して、操作する事無く画像を表示できるようにする拡張機能と併用すると、より効果的です！！  
 リポジトリリンク  
-[SensitiveImageLover](https://github.com/noriokun4649/SensitiveImageLover)
+[SensitiveImageLover](https://github.com/noriokun4649/SensitiveImageLover)  
 Chrome Store Link  
 [Twitter用 センシティブ画像大好き君](https://chrome.google.com/webstore/detail/twitter%E7%94%A8-%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%86%E3%82%A3%E3%83%96%E7%94%BB%E5%83%8F%E5%A4%A7%E5%A5%BD%E3%81%8D%E5%90%9B/gmmdlghnjobnnkochmhgbmdaoncibakj)
