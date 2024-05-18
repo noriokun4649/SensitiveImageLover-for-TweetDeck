@@ -13,7 +13,7 @@
     },
     "content_scripts": [
         {
-            "matches": ["https://pro.twitter.com/*"],
+            "matches": ["https://pro.twitter.com/*","https://pro.x.com/*"],
             "js": ["content.js"]
         }
     ]
