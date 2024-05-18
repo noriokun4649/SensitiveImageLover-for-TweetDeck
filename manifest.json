@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Twitter委任垢用 センシティブ画像大好き君",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icons": {
         "128": "icon.png"
     },
