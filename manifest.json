@@ -6,7 +6,7 @@
         "128": "icon.png"
     },
     "description": "TweetDeckにて委任垢のカラムで「センシティブな内容が含まれている可能性のあるメディアです。」となる画像を自動で表示することが可能です。",
-    "permissions": ["activeTab", "storage"],
+    "permissions": ["storage"],
     "action": {
         "default_popup": "popup.html",
         "default_icon": "icon.png"
